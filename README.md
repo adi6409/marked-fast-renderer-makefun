@@ -1,5 +1,9 @@
 # Guarded markdown renderer
 
+[![markdown-render-speed-02](https://make.fun/badge/markdown-render-speed-02.svg)](https://make.fun/bounty/markdown-render-speed-02)
+[![rank](https://make.fun/badge/markdown-render-speed-02/adi6409/marked-fast-renderer-makefun/rank.svg)](https://make.fun/bounty/markdown-render-speed-02/leaderboard)
+[![reward](https://make.fun/badge/markdown-render-speed-02/adi6409/marked-fast-renderer-makefun/reward.svg)](https://make.fun/bounty/markdown-render-speed-02)
+
 Dependency-free ES module targeting marked 18.1.3 default HTML semantics.
 `parse.js` exports `parse(markdown)`; `main.ts` implements the kit's JSON driver.
 
